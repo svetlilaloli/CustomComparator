@@ -1,7 +1,0 @@
-C:\Users\Sony Vaio\source\repos\FunctionalProgramming\CustomComparator\bin\Debug\CustomComparator.exe.config
-C:\Users\Sony Vaio\source\repos\FunctionalProgramming\CustomComparator\bin\Debug\CustomComparator.exe
-C:\Users\Sony Vaio\source\repos\FunctionalProgramming\CustomComparator\bin\Debug\CustomComparator.pdb
-C:\Users\Sony Vaio\source\repos\FunctionalProgramming\CustomComparator\obj\Debug\CustomComparator.csprojAssemblyReference.cache
-C:\Users\Sony Vaio\source\repos\FunctionalProgramming\CustomComparator\obj\Debug\CustomComparator.csproj.CoreCompileInputs.cache
-C:\Users\Sony Vaio\source\repos\FunctionalProgramming\CustomComparator\obj\Debug\CustomComparator.exe
-C:\Users\Sony Vaio\source\repos\FunctionalProgramming\CustomComparator\obj\Debug\CustomComparator.pdb
